@@ -1,4 +1,4 @@
-### LumpeREDUX
+# LumpeREDUX
 Forked by matchiiii, originally created by [Lumpooni](https://github.com/Lumpooni/Lumepemon2.0)
 
 _LumpeREDUX_ is a modpack made for Minecraft: Java Edition created for use with the Lumpemon 2.0 server,
