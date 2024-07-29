@@ -16,5 +16,4 @@ you need to have a Forge 1.20.1 instance before starting it, or else the modpack
 ### Information
 Modpack Version: **1.0.0**            
 Game Version: **Forge 1.20.1**  
-Mod Count: **118**     
-Mod Difference: **+11 mods compared to Lumpemon 2.0**
+Mod Count: **120**     
