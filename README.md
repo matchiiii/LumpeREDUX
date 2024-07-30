@@ -14,6 +14,6 @@ Before using this modpack, you must ensure your launcher wheter the Official or 
 you need to have a Forge 1.20.1 instance before starting it, or else the modpack will not function!
 
 ### Information
-Modpack Version: **1.0.0**            
+Modpack Version: **1.1.0**            
 Game Version: **Forge 1.20.1**  
-Mod Count: **120**     
+Mod Count: **134**     
